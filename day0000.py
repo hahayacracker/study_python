@@ -8,7 +8,6 @@
 
 
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-import random
 import os
 
 
