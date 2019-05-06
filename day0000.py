@@ -5,7 +5,7 @@
 # @Site    : 
 # @File    : day0000.py
 # @Software: PyCharm
-
+# @depends ： pip3 install Pillow
 
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os
